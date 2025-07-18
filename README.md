@@ -5,8 +5,8 @@
  - 🌱 Atualmente, estudando Análise e Desenvolvimento de Sistemas 4 período
  - 👯 Estou procurando colaborar em algum estágio, seja em PYTHON, JS ou PHP, ou qualquer outra caso apareça a oportunidade
 
- - Aprofundando conhecimentos...
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+ - Aprofundando conhecimentos em: 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" />
 
    ## Contatos:
    <div>
@@ -17,8 +17,8 @@
 
     <div>
       <a href="https://github.com/0braiajr">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0braiajr&layout=compact&langs_count=7&theme=dracula"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=0braiajr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
           
           
