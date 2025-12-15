@@ -1,7 +1,7 @@
 
 # Fernando Neto
 
- - 🌱 Atualmente, estudando Análise e Desenvolvimento de Sistemas 4 período
+ - 🌱 Formado em Análise e Desenvolvimento de Sistemas
  - 👯 Estou procurando colaborar em algum estágio ou junior, seja em PYTHON, JS ou PHP, ou qualquer outra caso apareça a oportunidade
 
  - Aprofundando conhecimentos em: 
